@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simon Says Game
 
 This is a simple Simon Says game built with React and Tailwind CSS. The game challenges players to memorize and repeat a
