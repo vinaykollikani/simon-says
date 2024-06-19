@@ -20,7 +20,7 @@ as the sequence gets longer.
 
 ## Live Demo
 
-You can play the live version of the game [here](https://your-live-demo-link.com).
+You can play the live version of the game [here](https://simon-says-vinaykollikani.netlify.app/).
 
 ## Screenshots
 
